@@ -59,3 +59,6 @@ data_2019_final = data_2019.apply(winner, axis= 1)
 results_2019 = data_2019_final.groupby("Winning_Team").size()
 results_2019 = results_2019.sort_values(ascending=False)
 print(results_2019)
+
+
+#results_2019 = data_2019_final.groupby("").size()
