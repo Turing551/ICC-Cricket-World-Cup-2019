@@ -26,3 +26,42 @@ In addition, we test our model on 2015 world cup data and measure the accuracy o
 
   All these features except the number of ICC trophies won for the last 12 years is based solely on One-Day International (ODI) records.     All the individual features are converted to a team statistic by taking the overall mean. Certain features are provided with a             description of Recent which basically means the period from 2015 world cup to present. Some features were also selected based on the       location of the upcoming World Cup. 
 
+
+### Features List 1
+
+| SNo           | Category      | Feature Description |
+| ------------- |:-------------:| -----:|
+|      1        |   Individual  | Career Batting Average |
+|      2        |   Individual  | Career Batting Strike Rate |
+|      3        |   Individual  | No of 100's scored in total |
+|      4        |   Individual  | No of 50's scored in total |
+|      5        |   Individual  | No of boundaries scored in total |
+|      6        |   Individual  | Career Bowling Average |
+|      7        |   Individual  | Career Bowling Strike Rate |
+|      8        |   Individual  | Career Bowling Economy Rate |
+|      9        |   Individual  | No of wickets taken per innings > 2 |
+|      10       |   Individual  | Batting Average: Recent |
+|      11       |   Individual  | Batting Strike Rate: Recent |
+|      12       |   Individual  | No of 100's scored: Recent |
+|      13       |   Individual  | No of 50's scored: Recent |
+|      14       |   Individual  | No of boundaries: Recent |
+|      15       |   Individual  | Bowling Average: Recent |
+|      16       |   Individual  | Bowling Strike Rate: Recent |
+|      17       |   Individual  | Bowling Economy Rate: Recent |
+|      18       |   Individual  | No of ODI's Played |
+|      19       |   Individual  | No of World Cup Matches played before |
+|      20       |   Individual  | Age |
+|      21       |   Team        | Consolidated Average of opening Batsmen in the squad |
+|      22       |   Team        | Consolidated Average of Middle Order Batsmen in the squad |
+|      23       |   Team        | Consolidated Batting and bowling averages of all-rounders in the squad |
+|      24       |   Team        | Consolidated Bowling Average of Spinners in the Squad |
+|      25       |   Team        | Consolidated Bowling Average of Fast Bowlers in the Squad |
+|      26       |   Team        | Powerplay Batting Average: Recent |
+|      27       |   Team        | Powerplay Batting Strike Rate: Recent |
+|      28       |   Team        | Powerplay Batting No of boundaries: Recent |
+|      29       |   Team        | Death Batting Average: Recent |
+|      30       |   Team        | Overall Win Loss Ratio |
+|      31       |   Team        | Win Loss Ratio: Recent |
+
+
+
