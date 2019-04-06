@@ -30,6 +30,7 @@ model.add(keras.layers.Dropout(0.2))
 model.add(keras.layers.Dense(100, activation="relu"))
 model.add(keras.layers.Dropout(0.2))
 model.add(keras.layers.Dense(2, activation="softmax"))
+model.add(keras.layers.Dense(2, activation="softmax"))
 
 # Compiling the model - adaDelta - Adaptive learning
 model.compile(loss=keras.losses.categorical_crossentropy, optimizer=keras.optimizers.Adadelta(), metrics=['accuracy'])
