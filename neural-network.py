@@ -36,6 +36,8 @@ model.add(keras.layers.Dense(2, activation="softmax"))
 model.compile(loss=keras.losses.categorical_crossentropy, optimizer=keras.optimizers.Adadelta(), metrics=['accuracy'])
 
 # Training and evaluating
+batch_size = 100
+num_epoch = 1000
 batch_size = 50
 num_epoch = 1000
 model_log = model.fit(x_train, y_train, batch_size = batch_size, epochs=num_epoch, verbose=1, validation_data=(x_test, y_test))
