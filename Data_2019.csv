@@ -1,0 +1,108 @@
+"","Mat_Bat","Inns_Bat","NO","Runs_Bat","HS","Ave_Bat","BF","SR_Bat","100","50","4s","6s","Ct","St","Mat_Bowl","Inns_Bowl","Balls","Runs_Bowl","Wkts","Ave_Bowl","Econ","SR_Bowl","4w","5w","10","Full_Name","Country","Batting_Style","Bowling_Style"
+"1",168,145,38,3637,128,33.99,4784,76.02,3,20,291,47,56,0,168,129,4006,3421,75,45.61,5.12,53.4,0,0,0," Mohammad Mahmudullah","Bangladesh","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"2",24,24,1,505,121,21.95,621,81.32,1,1,57,6,13,3,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Liton Kumar Das","Bangladesh","Batting style Right-hand bat",NA
+"3",3,3,0,20,7,6.66,45,44.44,0,0,0,0,2,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Najmul Hossain Shanto","Bangladesh","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"4",13,11,2,241,63,26.77,322,74.84,0,2,19,7,5,0,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Mohammad Mithun","Bangladesh","Batting style Right-hand bat",NA
+"5",198,184,31,5346,144,34.94,6881,77.69,6,32,424,74,164,42,198,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Mohammad Mushfiqur Rahim","Bangladesh","Batting style Right-hand bat",NA
+"6",195,183,24,5577,134,35.07,6863,81.26,7,40,504,38,45,0,195,192,9899,7333,247,29.68,4.44,40,8,1,0," Shakib Al Hasan","Bangladesh","Batting style Left-hand bat","Bowling style Slow left-arm orthodox"
+"7",78,78,2,2434,144,32.02,3423,71.1,4,16,238,37,21,0,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Imrul Kayes","Bangladesh","Batting style Left-hand bat",NA
+"8",202,148,25,1728,51,14.04,1967,87.84,0,1,148,58,58,0,202,202,10102,8093,258,31.36,4.8,39.1,7,1,0," Mashrafe Bin Mortaza","Bangladesh","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"9",22,13,2,212,51,19.27,324,65.43,0,1,16,2,7,0,22,21,1098,785,24,32.7,4.28,45.7,1,0,0," Mehidy Hasan Miraz","Bangladesh","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"10",40,18,13,52,18,10.4,95,54.73,0,0,5,0,8,0,40,39,1966,1501,73,20.56,4.58,26.9,2,3,0," Mustafizur Rahman","Bangladesh","Batting style Left-hand bat","Bowling style Left-arm fast-medium"
+"11",5,1,0,7,7,7,13,53.84,0,0,0,0,2,0,5,5,264,224,5,44.8,5.09,52.8,0,0,0," Mohammad Nazmul Islam","Bangladesh","Batting style Left-hand bat","Bowling style Slow left-arm orthodox"
+"12",20,12,8,61,16,15.25,84,72.61,0,0,5,3,6,0,20,20,939,772,27,28.59,4.93,34.7,0,0,0," Aftab Alam","Afghanistan","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"13",23,10,4,40,15,6.66,41,97.56,0,0,5,1,2,0,23,23,1308,839,44,19.06,3.84,29.7,2,1,0," Mujeeb Ur Rahman","Afghanistan","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"14",49,41,8,757,82,22.93,1061,71.34,0,5,53,22,9,0,49,45,1514,1319,37,35.64,5.22,40.9,2,0,0," Gulbadin Naib","Afghanistan","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"15",106,95,11,2435,116,28.98,2763,88.12,1,12,152,80,50,0,106,103,5058,3585,114,31.44,4.25,44.3,2,0,0," Mohammad Nabi","Afghanistan","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"16",52,38,7,676,60,21.8,668,101.19,0,3,61,18,17,0,52,50,2623,1708,118,14.47,3.9,22.2,4,4,0," Rashid Khan Arman","Afghanistan","Batting style Right-hand bat","Bowling style Legbreak googly"
+"17",79,69,10,1733,96,29.37,2669,64.93,0,11,132,25,21,0,79,63,2003,1638,44,37.22,4.9,45.5,1,0,0," Samiullah Shinwari","Afghanistan","Batting style Right-hand bat","Bowling style Legbreak"
+"18",76,76,3,2508,131,34.35,2826,88.74,5,13,292,53,59,24,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Mohammad Shahzad Mohammadi","Afghanistan","Batting style Right-hand bat",NA
+"19",16,16,2,307,57,21.92,440,69.77,0,3,38,6,10,0,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Ihsanullah Janat","Afghanistan","Batting style Right-hand bat",NA
+"20",53,49,2,1713,114,36.44,2424,70.66,3,12,132,19,13,0,53,19,404,400,12,33.33,5.94,33.6,0,1,0," Rahmat Shah Zurmatai","Afghanistan","Batting style Right-hand bat","Bowling style Legbreak googly"
+"21",25,25,5,675,97,33.75,1057,63.85,0,5,52,0,6,0,25,2,18,25,0,NA,8.33,NA,0,0,0," Hashmatullah Shahidi","Afghanistan","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"22",94,88,6,1787,101,21.79,2810,63.59,1,8,122,42,18,0,94,7,139,91,3,30.33,3.92,46.3,0,0,0," Mohammad Asghar Afghan","Afghanistan","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"23",19,10,5,44,19,8.8,94,46.8,0,0,1,1,4,0,19,19,944,889,32,27.78,5.65,29.5,0,1,0," Lachlan Hammond Ferguson","New Zealand","Batting style Right-hand bat","Bowling style Right-arm fast"
+"24",26,26,4,1275,210,57.95,1305,97.7,3,8,151,20,12,0,26,5,99,80,1,80,4.84,99,0,0,0," Fakhar Zaman","Pakistan","Batting style Left-hand bat","Bowling style Slow left-arm orthodox"
+"25",203,202,14,6153,140,32.72,8143,75.56,11,34,624,99,78,0,203,165,7409,5073,137,37.02,4.1,54,1,0,0," Mohammad Hafeez","Pakistan","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"26",54,52,8,2267,125,51.52,2674,84.77,8,9,180,22,27,0,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Mohammad Babar Azam","Pakistan","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"27",26,25,3,960,89,43.63,1175,81.7,0,10,75,14,9,0,26,15,528,503,10,50.3,5.71,52.8,0,0,0," Haris Sohail","Pakistan","Batting style Left-hand bat","Bowling style Slow left-arm orthodox"
+"28",274,246,40,7284,143,35.35,8910,81.75,9,43,588,111,94,0,274,211,7868,6102,156,39.11,4.65,50.4,1,0,0," Shoaib Malik","Pakistan","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"29",11,8,1,200,50,28.57,153,130.71,0,1,13,12,2,0,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Asif Ali","Pakistan","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"30",16,10,2,104,23,13,135,77.03,0,0,7,5,5,0,16,16,573,409,18,22.72,4.28,31.8,0,1,0," Faheem Ashraf","Pakistan","Batting style Left-hand bat","Bowling style Right-arm medium"
+"31",41,20,6,143,51,10.21,149,95.97,0,1,8,7,11,0,41,40,1981,1756,75,23.41,5.31,26.4,1,3,0," Hasan Ali","Pakistan","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"32",98,73,16,1894,105,33.22,2188,86.56,2,9,145,10,96,23,98,1,12,15,0,NA,7.5,NA,0,0,0," Sarfraz Ahmed","Pakistan","Batting style Right-hand bat",NA
+"33",29,13,5,239,54,29.87,358,66.75,0,3,14,3,7,0,29,28,1357,1051,42,25.02,4.64,32.3,3,0,0," Shadab Khan","Pakistan","Batting style Right-hand bat","Bowling style Legbreak"
+"34",6,2,1,14,14,14,22,63.63,0,0,0,1,0,0,6,6,281,229,13,17.61,4.88,21.6,2,0,0," Shaheen Shah Afridi","Pakistan","Batting style Left-hand bat","Bowling style Left-arm medium"
+"35",36,14,5,170,48,18.88,172,98.83,0,0,15,7,12,0,36,34,1835,1701,68,25.01,5.56,26.9,5,2,0," Matthew James Henry","New Zealand","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"36",69,31,19,130,21,10.83,169,76.92,0,0,12,5,16,0,69,69,3722,3200,126,25.39,5.15,29.5,5,4,0," Trent Alexander Boult","New Zealand","Batting style Right-hand bat","Bowling style Left-arm fast-medium"
+"37",22,18,5,392,74,30.15,370,105.94,0,1,25,20,6,0,22,22,756,651,13,50.07,5.16,58.1,0,0,0," Colin de Grandhomme","New Zealand","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"38",25,9,1,50,24,6.25,71,70.42,0,0,2,3,6,0,25,24,1238,1151,31,37.12,5.57,39.9,1,0,0," Inderbir Singh Sodhi","New Zealand","Batting style Right-hand bat","Bowling style Legbreak"
+"39",43,39,1,947,87,24.92,896,105.69,0,6,96,29,16,0,43,21,468,401,7,57.28,5.14,66.8,0,0,0," Colin Munro","New Zealand","Batting style Left-hand bat","Bowling style Right-arm medium-fast"
+"40",10,10,2,272,58,34,379,71.76,0,3,23,3,5,0,10,1,6,5,0,NA,5,NA,0,0,0," George Herrick Worker","New Zealand","Batting style Left-hand bat","Bowling style Slow left-arm orthodox"
+"41",30,28,8,643,83,32.15,783,82.12,0,6,50,6,14,0,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Henry Michael Nicholls","New Zealand","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"42",207,192,34,7433,181,47.04,9001,82.57,19,43,614,128,131,0,207,4,42,35,0,NA,5,NA,0,0,0," Luteru Ross Poutoa Lote Taylor","New Zealand","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"43",77,74,8,2203,137,33.37,2674,82.38,4,12,195,28,51,5,77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Thomas William Maxwell Latham","New Zealand","Batting style Left-hand bat","Bowling style Right-arm medium"
+"44",28,25,2,573,96,24.91,838,68.37,0,5,58,3,20,0,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Bradley-John Watling","New Zealand","Batting style Right-hand bat",NA
+"45",115,114,6,4935,137,45.69,5234,94.28,15,25,614,63,55,0,115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Shikhar Dhawan","India","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"46",44,41,6,1662,146,47.48,2320,71.63,4,7,115,28,38,8,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Shai Diego Hope","West Indies","Batting style Right-hand bat",NA
+"47",20,20,0,758,127,37.9,709,106.91,3,2,51,30,9,0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Shimron Odilon Hetmyer","West Indies","Batting style Left-hand bat","Bowling style Legbreak googly"
+"48",97,94,10,2651,124,31.55,3834,69.14,3,17,225,56,30,0,97,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Darren Michael Bravo","West Indies","Batting style Left-hand bat","Bowling style Right-arm medium-fast"
+"49",139,110,22,2200,169,25,2738,80.35,2,8,165,31,181,7,139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Denesh Ramdin","West Indies","Batting style Right-hand bat",NA
+"50",101,95,6,2289,119,25.71,2464,92.89,3,9,145,110,53,0,101,70,2044,1956,50,39.12,5.74,40.8,0,0,0," Kieron Adrian Pollard","West Indies","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"51",28,26,2,323,33,13.45,391,82.6,0,0,20,12,9,0,28,27,1284,1163,26,44.73,5.43,49.3,1,1,0," Carlos Ricardo Brathwaite","West Indies","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"52",4,4,0,25,10,6.25,52,48.07,0,0,2,1,0,0,4,4,138,131,0,NA,5.69,NA,0,0,0," Fabian Anthony Allen","West Indies","Batting style Right-hand bat","Bowling style Slow left-arm orthodox"
+"53",11,9,2,115,36,16.42,152,75.65,0,0,4,5,5,0,11,11,508,498,11,45.27,5.88,46.1,0,0,0," Keemo Mandela Angus Paul","West Indies","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"54",4,2,1,0,0,0,4,0,0,0,0,0,0,0,4,4,168,204,6,34,7.28,28,0,0,0," Oshane Romaine Thomas","West Indies","Batting style Left-hand bat","Bowling style Right-arm medium-fast"
+"55",6,2,1,4,3,4,12,33.33,0,0,0,0,1,0,6,6,312,264,11,24,5.07,28.3,0,0,0," Khaleel Khursheed Ahmed","India","Batting style Right-hand bat","Bowling style Left-arm medium"
+"56",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,60,65,1,65,6.5,60,0,0,0," Washington Sundar","India","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"57",95,44,14,440,53,14.66,598,73.57,0,1,37,6,23,0,95,94,4552,3784,99,38.22,4.98,45.9,2,1,0," Bhuvneshwar Kumar Singh","India","Batting style Right-hand bat","Bowling style Right-arm medium"
+"58",34,4,1,16,12,5.33,28,57.14,0,0,2,0,6,0,34,33,1807,1431,56,25.55,4.75,32.2,1,1,0," Yuzvendra Singh Chahal","India","Batting style Right-hand bat","Bowling style Legbreak googly"
+"59",193,187,31,7454,264,47.78,8406,88.67,21,37,655,202,69,0,193,38,593,515,8,64.37,5.21,74.1,0,0,0," Rohit Gurunath Sharma","India","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"60",13,12,3,317,100,35.22,393,80.66,1,2,25,5,6,0,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Kannaur Lokesh Rahul","India","Batting style Right-hand bat",NA
+"61",3,2,0,41,24,20.5,31,132.25,0,0,5,1,3,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Rishabh Rajendra Pant","India","Batting style Left-hand bat",NA
+"62",23,18,6,440,104,36.66,479,91.85,1,2,37,4,6,0,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Manish Krishnanand Pandey","India","Batting style Right-hand bat","Bowling style Right-arm medium"
+"63",86,73,19,1663,79,30.79,2282,72.87,0,9,167,14,55,7,86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Krishnakumar Dinesh Karthik","India","Batting style Right-hand bat",NA
+"64",78,34,9,514,69,20.56,501,102.59,0,1,56,6,24,0,78,74,3940,3620,119,30.42,5.51,33.1,7,1,0," Adil Usman Rashid","England","Batting style Right-hand bat","Bowling style Legbreak"
+"65",46,43,1,1424,116,33.9,1558,91.39,2,8,168,7,31,7,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Dickwella Patabendige Dilantha Niroshan Dickwella","Sri Lanka","Batting style Left-hand bat",NA
+"66",6,6,0,132,54,22,151,87.41,0,1,17,0,1,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Wedagedara Sadeera Rashen Samarawickrama","Sri Lanka","Batting style Right-hand bat",NA
+"67",54,52,2,1386,102,27.72,1606,86.3,1,12,152,22,28,0,54,2,20,28,0,NA,8.4,NA,0,0,0," Balapuwaduge Kusal Gimhan Mendis","Sri Lanka","Batting style Right-hand bat",NA
+"68",144,130,21,3586,111,32.89,4825,74.32,4,22,245,39,59,7,144,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Lokuge Dinesh Chandimal","Sri Lanka","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"69",145,112,16,1867,80,19.44,1699,109.88,0,9,148,63,56,0,145,136,5140,4991,163,30.61,5.82,31.5,5,4,0," Narangoda Liyanaarachchilage Thisara Chirantha Perera","Sri Lanka","Batting style Left-hand bat","Bowling style Right-arm medium-fast"
+"70",27,25,4,557,84,26.52,712,78.23,0,4,56,7,16,0,27,21,486,429,10,42.9,5.29,48.6,0,0,0," Dhananjaya Maduranga de Silva","Sri Lanka","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"71",18,15,1,325,66,23.21,279,116.48,0,2,26,18,2,0,18,9,180,183,7,26.14,6.1,25.7,0,1,0," Madagamagamage Dasun Shanaka","Sri Lanka","Batting style Right-hand bat","Bowling style Right-arm medium"
+"72",30,23,5,276,50,15.33,390,70.76,0,1,24,3,13,0,30,28,1442,1239,46,26.93,5.15,31.3,2,2,0," Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera","Sri Lanka","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"73",210,106,34,506,56,7.02,667,75.86,0,1,39,20,30,0,210,204,10094,8929,311,28.71,5.3,32.4,10,8,0," Separamadu Lasith Malinga","Sri Lanka","Batting style Right-hand bat","Bowling style Right-arm fast"
+"74",9,7,4,10,4,3.33,45,22.22,0,0,0,0,0,0,9,9,423,377,10,37.7,5.34,42.3,1,0,0," Malmeege Amila Aponso","Sri Lanka","Batting style Right-hand bat","Bowling style Slow left-arm orthodox"
+"75",31,12,8,18,7,4.5,52,34.61,0,0,2,0,6,0,31,29,1400,1383,35,39.51,5.92,40,0,0,0," Aththachchi Nuwan Pradeep Roshan Fernando","Sri Lanka","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"76",80,56,18,1039,95,27.34,1145,90.74,0,4,75,16,34,0,80,77,3768,3463,113,30.64,5.51,33.3,8,2,0," Christopher Roger Woakes","England","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"77",4,1,1,9,9,NA,7,128.57,0,0,1,0,0,0,4,3,96,97,1,97,6.06,96,0,0,0," Oliver Peter Stone","England","Batting style Right-hand bat","Bowling style Right-arm fast"
+"78",11,6,5,71,35,71,62,114.51,0,0,6,2,4,0,11,11,496,515,18,28.61,6.22,27.5,0,1,0," Thomas Kevin Curran","England","Batting style Right-hand bat","Bowling style Right-arm fast-medium"
+"79",87,71,10,1621,128,26.57,1549,104.64,3,5,146,52,26,0,87,83,4102,3501,78,44.88,5.12,52.5,1,0,0," Moeen Munir Ali","England","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"80",75,64,10,1963,102,36.35,2078,94.46,3,13,158,57,38,0,75,61,2349,2386,58,41.13,6.09,40.5,1,1,0," Benjamin Andrew Stokes","England","Batting style Left-hand bat","Bowling style Right-arm fast-medium"
+"81",70,69,2,2536,180,37.85,2433,104.23,6,12,299,42,27,0,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Jason Jonathan Roy","England","Batting style Right-hand bat",NA
+"82",54,50,8,2017,141,48.02,1929,104.56,6,7,220,42,23,2,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Jonathan Marc Bairstow","England","Batting style Right-hand bat","Bowling style Right-arm medium"
+"83",121,115,19,4946,133,51.52,5722,86.43,13,29,392,40,56,0,121,60,1342,1299,20,64.95,5.8,67.1,0,0,0," Joseph Edward Root","England","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"84",212,199,29,6557,124,38.57,7348,89.23,11,41,555,170,76,0,212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Eoin Joseph Gerard Morgan","England","Batting style Left-hand bat","Bowling style Right-arm medium"
+"85",122,101,21,3176,129,39.7,2715,116.97,6,18,272,93,153,25,122,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Joseph Charles Buttler","England","Batting style Right-hand bat",NA
+"86",112,100,28,2780,139,38.61,2737,101.57,5,12,207,81,54,0,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," David Andrew Miller","South Africa","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"87",98,98,5,4133,178,44.44,4381,94.33,13,17,471,59,139,7,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Quinton de Kock","South Africa","Batting style Left-hand bat",NA
+"88",9,9,0,244,102,27.11,311,78.45,1,1,21,2,8,0,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Reeza Raphael Hendricks","South Africa","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"89",16,16,0,407,66,25.43,462,88.09,0,1,49,9,6,0,16,3,48,56,2,28,7,24,0,0,0," Aiden Kyle Markram","South Africa","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"90",124,119,15,4693,185,45.12,5298,88.58,10,29,411,58,65,0,124,11,192,189,2,94.5,5.9,96,0,0,0," Francois du Plessis","South Africa","Batting style Right-hand bat","Bowling style Legbreak"
+"91",12,12,2,251,59,25.1,290,86.55,0,1,26,6,16,2,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Heinrich Klaasen","South Africa","Batting style Right-hand bat",NA
+"92",14,7,1,101,50,16.83,113,89.38,0,1,7,3,3,0,14,14,686,554,22,25.18,4.84,31.1,0,0,0," Dwaine Pretorius","South Africa","Batting style Right-hand bat","Bowling style Right-arm medium-fast"
+"93",121,50,12,365,60,9.6,560,65.17,0,1,35,9,28,0,121,120,6076,4935,192,25.7,4.87,31.6,4,3,0," Dale Willem Steyn","South Africa","Batting style Right-hand bat","Bowling style Right-arm fast"
+"94",57,22,10,198,26,16.5,256,77.34,0,0,16,4,17,0,57,56,2911,2428,93,26.1,5,31.3,6,1,0," Kagiso Rabada","South Africa","Batting style Left-hand bat","Bowling style Right-arm fast"
+"95",13,6,5,34,19,34,44,77.27,0,0,4,1,4,0,13,13,646,599,26,23.03,5.56,24.8,2,0,0," Lungisani Ngidi","South Africa","Batting style Right-hand bat","Bowling style Right-arm fast"
+"96",91,30,13,140,29,8.23,197,71.06,0,0,20,1,17,0,91,89,4701,3675,151,24.33,4.69,31.1,6,3,0," Mohammad Imran Tahir","South Africa","Batting style Right-hand bat","Bowling style Legbreak googly"
+"97",75,38,16,280,52,12.72,313,89.45,0,1,23,7,19,0,75,75,3761,3109,145,21.44,4.95,25.9,9,5,0," Mitchell Aaron Starc","Australia","Batting style Left-hand bat","Bowling style Left-arm fast"
+"98",44,13,11,37,11,18.5,57,64.91,0,0,6,0,13,0,44,43,2294,1811,72,25.15,4.73,31.8,1,3,0," Josh Reginald Hazlewood","Australia","Batting style Left-hand bat","Bowling style Right-arm fast-medium"
+"99",42,23,9,166,36,11.85,246,67.47,0,0,13,3,6,0,42,42,2184,1933,65,29.73,5.31,33.6,4,0,0," Patrick James Cummins","Australia","Batting style Right-hand bat","Bowling style Right-arm fast"
+"100",21,21,4,721,146,42.41,734,98.22,1,5,53,32,4,0,21,19,774,781,18,43.38,6.05,43,0,0,0," Marcus Peter Stoinis","Australia","Batting style Right-hand bat","Bowling style Right-arm medium"
+"101",33,16,4,89,22,7.41,140,63.57,0,0,6,1,8,0,33,33,1630,1548,42,36.85,5.69,38.8,0,0,0," Adam Zampa","Australia","Batting style Right-hand bat","Bowling style Legbreak googly"
+"102",87,78,8,2242,102,32.02,1852,121.05,1,16,222,73,50,0,87,66,1978,1844,45,40.97,5.59,43.9,2,0,0," Glenn James Maxwell","Australia","Batting style Right-hand bat","Bowling style Right-arm offbreak"
+"103",4,4,0,75,44,18.75,89,84.26,0,0,5,3,3,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Christopher Austin Lynn","Australia","Batting style Right-hand bat","Bowling style Slow left-arm orthodox"
+"104",96,92,1,3418,148,37.56,3817,89.54,11,18,355,76,46,0,96,14,158,137,2,68.5,5.2,79,0,0,0," Aaron James Finch","Australia","Batting style Right-hand bat","Bowling style Slow left-arm orthodox"
+"105",60,59,2,2312,151,40.56,2850,81.12,6,12,214,30,16,0,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Shaun Edward Marsh","Australia","Batting style Left-hand bat","Bowling style Slow left-arm orthodox"
+"106",42,39,2,1273,128,34.4,1414,90.02,1,10,135,16,12,0,42,26,765,737,12,61.41,5.78,63.7,0,0,0," Travis Michael Head","Australia","Batting style Left-hand bat","Bowling style Right-arm offbreak"
+"107",6,6,0,199,47,33.16,253,78.65,0,0,17,2,5,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," Alex Tyson Carey","Australia","Batting style Left-hand bat",NA
