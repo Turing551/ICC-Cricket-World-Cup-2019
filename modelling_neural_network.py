@@ -51,6 +51,10 @@ print('Test accuracy:', test_score[1])
 prediction_2019 = model.predict_classes(x_2019)
 data_2019["Result"] = prediction_2019
 
+# Predictions for the 2014 World Cup
+# prediction_2014 = model.predict_classes(x_2014)
+# data_2014["Result"] = prediction_2014
+
 def winner(x):
     if x.Result == 1:
         x["Winning_Team"] = x.Team1
