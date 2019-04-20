@@ -66,3 +66,5 @@ In addition, we test our model on 2015 world cup data and measure the accuracy o
 
 ### Adding Features List 2.... Coming soon
 
+60% done
+
