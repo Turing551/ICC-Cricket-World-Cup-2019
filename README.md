@@ -64,7 +64,37 @@ In addition, we test our model on 2015 world cup data and measure the accuracy o
 |      31       |   Team        | Win Loss Ratio: Recent |
 
 
-### Adding Features List 2.... Coming soon
+### Features List 2
 
-88% done
+| SNo           | Category      | Feature Description |
+| ------------- |:-------------:| -----:|
+|      1        |   Team        | Death Batting Strike Rate: Recent |
+|      2        |   Team        | Death Batting Number of Boundaries: Recent |
+|      3        |   Team        | Powerplay Bowling Average: Recent |
+|      4        |   Team        | Powerplay Bowling Strike Rate: Recent |
+|      5        |   Team        | Powerplay Bowling Economy Rate: Recent |
+|      6        |   Team        | Death Bowling Average: Recent |
+|      7        |   Team        | Death Bowling Strike Rate: Recent |
+|      8        |   Team        | Death Bowling Number of Boundaries: Recent |
+|      9        |   Individual  | Batting Average at World Cup Location |
+|      10       |   Individual  | Batting Strike Rate at World Cup Location |
+|      11       |   Individual  | Number of 100s scored at World Cup Location |
+|      12       |   Individual  | Number of 50s scored at World Cup Location |
+|      13       |   Individual  | Bowling Average at World Cup Location |
+|      14       |   Individual  | Bowling Strike Rate at World Cup Location |
+|      15       |   Individual  | Bowling Economy Rate at World Cup Location |
+|      16       |   Team        | Win-loss ratio at World Cup Location |
+|      17       |   Team        | Number of ICC Trophies in last 12 years |
+|      18       |   Team        | Win-loss ratio of the Captain |
+|      19       |   Team        | No of Bowler variations in the squad |
+|      20       |   Team        | Win-loss ratio while defending |
+|      21       |   Team        | Win-loss ratio while Chasing |
+|      22       |   Team        | Ratio of Number of Matches won afetr winning the toss |
+|      23       |   Team        | Ratio of Number of Matches won afetr losing the toss |
+|      24       |   Team        | Number of players with experience in playing long tournaments |
+|      25       |   Individual  | Ratio of Number of catches and number of matches played |
+|      26       | Miscellaneous | Weather Conditions: Recent |
+|      27       | Miscellaneous | Location of World Cup |
+
+
 
