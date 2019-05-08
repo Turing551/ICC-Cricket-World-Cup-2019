@@ -30,7 +30,7 @@ In addition, we test our model on 2015 world cup data and measure the accuracy o
 ### Features List 1
 
 | SNo           | Category      | Feature Description |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 |      1        |   Individual  | Career Batting Average |
 |      2        |   Individual  | Career Batting Strike Rate |
 |      3        |   Individual  | No of 100's scored in total |
@@ -67,7 +67,7 @@ In addition, we test our model on 2015 world cup data and measure the accuracy o
 ### Features List 2
 
 | SNo           | Category      | Feature Description |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 |      1        |   Team        | Death Batting Strike Rate: Recent |
 |      2        |   Team        | Death Batting Number of Boundaries: Recent |
 |      3        |   Team        | Powerplay Bowling Average: Recent |
