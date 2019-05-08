@@ -128,6 +128,9 @@ At first, we validate our approach by estimating the probabilities of winning th
 | West Indies     | 2.5%                   | 3%                        |  Quarter Finals  |
 
 
+### 2019 Cricket World Cup
+
+Now, we predict the 2019 world cup results based on the data collected from 1975-2015 world cups. Table 3 presents the probabilities based on the classification approaches based on the data collected until 18th July 2018
 
 
 
