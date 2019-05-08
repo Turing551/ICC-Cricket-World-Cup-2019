@@ -117,13 +117,13 @@ At first, we validate our approach by estimating the probabilities of winning th
 | Team         | Classifier Probability | Neural Network Prediction | Actual Result    |
 | :---         |     :---:              |          :---:            |     :---:        |
 | Afghanistan  | 1%                     | 1%                        |  Group Stage     |
-| Australia    | 28.5%                  | 25.1%                     |  **Winners**     |
+| Australia    | **28.5%**              | **25.1%**                 |  **Winners**     |
 | Bangladesh   | 5%                     | 2%                        |  Quarter Finals  |
 | England      | 6.5%                   | 5%                        |  Group Stage     |
-| India        | 16.0%                  | 12.4%                     |  **Semi Finals** |
-| New Zealand  | 12.5%                  | 16.1%                     |  **Finalists**   |
+| India        | **16.0%**              | **12.4%**                 |  **Semi Finals** |
+| New Zealand  | **12.5%**              | **16.1%**                 |  **Finalists**   |
 | Pakistan     | 9%                     | 11%                       |  Quarter Finals  |
-| South Africa | 12.0%                  | 15.4%                     |  **Semi Finals** |
+| South Africa | **12.0%**              | **15.4%**                 |  **Semi Finals** |
 | Sri Lanka    | 7%                     | 9%                        |  Quarter Finals  |
 | West Indies  | 2.5%                   | 3%                        |  Quarter Finals  |
 
