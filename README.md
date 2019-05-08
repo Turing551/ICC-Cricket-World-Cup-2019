@@ -99,20 +99,20 @@ In addition, we test our model on 2015 world cup data and measure the accuracy o
 
 ### Classification Methods
 
-In this research, we present two different approaches for our predictive analysis. At first, we present a classifier approach and later we present a neural network approach with hidden layers. Classifier approach would help us identify the pattern whereas neural network would help us identify the weights allocated after training for each feature. 
+In this research, we present two different approaches for our predictive analysis. At first, we present a classifier approach and later we present a neural network approach with hidden layers. Classifier approach would help us to identify the pattern whereas neural network would help us identify the weights allocated after training for each feature. 
 
 ### 1. Ensemble Classification Approach
 
-The framework of ensemble classifier systems is established by combining numerous basic classifiers together to reduce the variance caused by a single training set and more expressive concept in classification than a single classifier. We utilize the 8 basic classifiers for this study. The number of basic classifiers are selected based on the leave one out fold validation of the training data. Ensemble classifier has proven to be effective for predictive analysis, hence we adopted the same for this research.
+The framework of ensemble classifier systems is established by combining numerous basic classifiers together to reduce the variance caused by a single training set and more expressive concept in classification than a single classifier. We utilize the 8 basic classifiers for this study. The number of basic classifiers are selected based on the leave one out fold validation of the training data. Ensemble classifier has proven to be effective for predictive analysis, hence we adopted the same for this prediction.
 
 ### 2. Neural Network Approach
 
-In this neural network approach, we utilize 12 hidden layers for this study. The number of hidden layers was chosen based on leave one out validation of the training data. Gradient descent back propagation method is utilized.
+In this neural network approach, we utilize 12 hidden layers for this prediction. The number of hidden layers was chosen based on leave one out validation of the training data. Gradient descent back propagation method is utilized.
 
 
 ### Testing with 2015 Cricket World Cup
 
-At first, we validate our approach by estimating the probabilities of winning the World Cup of these 10 teams for the 2015 world cup and match with the actual 2015 world cup results. We estimate the probabilities based on the data collected from 1975-2011 world cups. Despite the 2015 world cup being played among 14 different countries, we focus on the results of these 10 teams. Table 2 lists the probabilities for the 2015 world cup based on both classifier and neural network approaches along with the actual result.
+At first, we validate our approach by estimating the probabilities of winning the World Cup of these 10 teams for the 2015 world cup and match with the actual 2015 world cup results. We estimate the probabilities based on the data collected from 1975-2011 world cups. Despite the 2015 world cup being played among 14 different countries, we focus on the results of these 10 teams. Above tables lists the probabilities for the 2015 world cup based on both classifier and neural network approaches along with the actual result.
 
 | Team            | Classifier Probability | Neural Network Prediction | Actual Result    |
 | :---            |     :---:              |          :---:            |     :---:        |
