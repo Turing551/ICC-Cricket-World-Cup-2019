@@ -114,5 +114,21 @@ In this neural network approach, we utilize 12 hidden layers for this study. The
 
 At first, we validate our approach by estimating the probabilities of winning the World Cup of these 10 teams for the 2015 world cup and match with the actual 2015 world cup results. We estimate the probabilities based on the data collected from 1975-2011 world cups. Despite the 2015 world cup being played among 14 different countries, we focus on the results of these 10 teams. Table 2 lists the probabilities for the 2015 world cup based on both classifier and neural network approaches along with the actual result.
 
+| Team         | Classifier Probability | Neural Network Prediction | Actual Result  |
+| :---         |     :---:              |          :---:            |     :---:      |
+| Afghanistan  | 1%                     | 1%                        |  Group Stage   |
+| Australia    | 28.5%                  | 25.1%                     |  Winners       |
+| Bangladesh   | 5%                     | 2%                        |  Quarter Finals|
+| England      | 6.5%                   | 5%                        |  Group Stage   |
+| India        | 16.0%                  | 12.4%                     |  Semi Finals   |
+| New Zealand  | 12.5%                  | 16.1%                     |  Finalists     |
+| Pakistan     | 9%                     | 11%                       |  Quarter Finals|
+| South Africa | 12.0%                  | 15.4%                     |  Semi Finals   |
+| Sri Lanka    | 7%                     | 9%                        |  Quarter Finals|
+| West Indies  | 2.5%                   | 3%                        |  Quarter Finals|
+
+
+
+
 
 
