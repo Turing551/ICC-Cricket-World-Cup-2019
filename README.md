@@ -16,6 +16,7 @@ This model is developed based on the historical data collected for the 10 partic
   10. West Indies
   
 In addition, we test our model on 2015 world cup data and measure the accuracy of predictions.
+Refer to Testing with 2015 Cricket World Cup Table.
 
 
 ### Training Data
