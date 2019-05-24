@@ -149,3 +149,5 @@ Now, we predict the 2019 world cup results based on the data collected from 1975
 
 100% DONE.... SUBMITTED
 
+Combining the corner cases which gives us more accuracy...
+
