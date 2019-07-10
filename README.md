@@ -140,7 +140,7 @@ Now, we predict the 2019 world cup results based on the data collected from 1975
 | Bangladesh      | 3%                     | 2%                        |  Group Stage        | Quarter Finals|
 | **England**     | **21.0%**              | **18.8%**                 |  **Finalists**      |  Semi Finals  |
 | **India**       | **18.0%**              | **20.8%**                 |  **Winners**        |  Semi Finals  |
-| **New Zealand** | **14.5%**              | **15.7%**                 |  **Semi Finals**    |  Semi Finals  |
+| **New Zealand** | **14.5%**              | **15.7%**                 |  **Semi Finals**    |  Finalists    |
 | **Pakistan**    | **17.5%**              | **19.0%**                 |  **Semi Finals**    | Quarter Finals|
 | South Africa    | 8.5%                   | 10.6%                     |  Semi Finals        | Quarter Finals|
 | Sri Lanka       | 3.5%                   | 3%                        |  Quarter Finals     | Quarter Finals|
