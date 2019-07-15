@@ -133,18 +133,18 @@ At first, we validate our approach by estimating the probabilities of winning th
 
 Now, we predict the 2019 world cup results based on the data collected from 1975-2015 world cups. Table 3 presents the probabilities based on the classification approaches based on the data collected until 18th July 2018
 
-| Team            | Classifier Probability | Neural Network Prediction | Predicted Result    | Actual Result |
-| :---            |     :---:              |          :---:            |     :---:           |    :---:      |
-| Afghanistan     | 0.5%                   | 1%                        |  Group Stage        |  Group Stage  |
-| Australia       | 10.0%                  | 6.1%                      |  Quarter Finals     |  Semi Finals  |
-| Bangladesh      | 3%                     | 2%                        |  Group Stage        | Quarter Finals|
-| **England**     | **21.0%**              | **18.8%**                 |  **Finalists**      |  Finalists    |
-| **India**       | **18.0%**              | **20.8%**                 |  **Winners**        |  Semi Finals  |
-| **New Zealand** | **14.5%**              | **15.7%**                 |  **Semi Finals**    |  Finalists    |
-| **Pakistan**    | **17.5%**              | **19.0%**                 |  **Semi Finals**    | Quarter Finals|
-| South Africa    | 8.5%                   | 10.6%                     |  Semi Finals        | Quarter Finals|
-| Sri Lanka       | 3.5%                   | 3%                        |  Quarter Finals     | Quarter Finals|
-| West Indies     | 3.5%                   | 3%                        |  Quarter Finals     |  Group Stage  |
+| Team            | Classifier Probability | Neural Network Prediction | Predicted Result    | Actual Result    |
+| :---            |     :---:              |          :---:            |     :---:           |    :---:         |
+| Afghanistan     | 0.5%                   | 1%                        |  Group Stage        |  Group Stage     |
+| Australia       | 10.0%                  | 6.1%                      |  Quarter Finals     | **Semi Finals**  |
+| Bangladesh      | 3%                     | 2%                        |  Group Stage        |  Quarter Finals  |
+| **England**     | **21.0%**              | **18.8%**                 |  **Finalists**      |  **Winners**     |
+| **India**       | **18.0%**              | **20.8%**                 |  **Winners**        | **Semi Finals**  |
+| **New Zealand** | **14.5%**              | **15.7%**                 |  **Semi Finals**    | **Finalists**    |
+| **Pakistan**    | **17.5%**              | **19.0%**                 |  **Semi Finals**    |  Quarter Finals  |
+| South Africa    | 8.5%                   | 10.6%                     |  Semi Finals        |  Quarter Finals  |
+| Sri Lanka       | 3.5%                   | 3%                        |  Quarter Finals     |  Quarter Finals  |
+| West Indies     | 3.5%                   | 3%                        |  Quarter Finals     |  Group Stage     |
 
 
 100% DONE.... SUBMITTED
